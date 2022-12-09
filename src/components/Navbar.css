@@ -1,0 +1,11 @@
+nav {
+    display: flex;
+    height: 70px;
+    padding: 23px 30px;
+    background: #ffffff;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+
+#nav--logo {
+    max-width: 100px;
+}

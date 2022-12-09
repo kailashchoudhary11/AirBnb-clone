@@ -1,0 +1,17 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.grey {
+    color: #918E9B;
+}
+
+section {
+    padding: 20px;
+}
